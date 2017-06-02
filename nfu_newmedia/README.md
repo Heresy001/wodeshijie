@@ -1,16 +1,21 @@
-# @中山大学南方学院 2016 - 2017 文学与传媒系【Python】
+# guangdongmap
 
 # 簡介 
-....
-## webapp_zh
+选取城市，输出相对应的地图
+## 输入
+用户输入城市（.text）
 
-### vsearch.py
+### 输出
+用户得到输出结果为：
 
-找介詞
 
-### vsearch4web.py
 
-找介詞app
+### 从输入到输出，本组作品使用了：
+
+matplotlib
+request
+folium
+lxml
 
 Note: 來源
 
